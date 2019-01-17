@@ -1,3 +1,3 @@
-# hellow-world
+# hello-world
 Write a short description.
 Hi All, just checking git
